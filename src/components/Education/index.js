@@ -5,41 +5,21 @@ export default function Education() {
       <h3>education</h3>
       <ul class="educations">
         <li class="item">
-          <span class="year">1990</span>
+          <span class="year">2015</span>
           <div class="item-description">
-            <h4>I was born in Katowice</h4>
+            <h4>I study network engineering in XXX.</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Sapiente, exercitationem, totam, dolores iste dolore est aut modi.
+              xxxxxxx
             </p>
           </div>
         </li>
         <li class="item">
-          <span class="year">2005</span>
+          <span class="year">2020</span>
           <div class="item-description">
-            <h4>Secondary school specializing in artistic</h4>
+            <h4>I study EI in XXX.</h4>
             <p>
-              Eos, explicabo, nam, tenetur et ab eius deserunt aspernatur ipsum
-              ducimus quibusdam quis voluptatibus.
+              xxxxxxxxx
             </p>
-          </div>
-        </li>
-        <li class="item">
-          <span class="year">2009</span>
-          <div class="item-description">
-            <h4>First level graduation in Graphic Design</h4>
-            <p>
-              Aspernatur, mollitia, quos maxime eius suscipit sed beatae ducimus
-              quaerat quibusdam perferendis? Iusto, quibusdam asperiores unde
-              repellat.
-            </p>
-          </div>
-        </li>
-        <li class="item">
-          <span class="year">2012</span>
-          <div class="item-description">
-            <h4>Second level graduation in Graphic Design</h4>
-            <p>Ducimus, aliquam tempore autem itaque et accusantium! </p>
           </div>
         </li>
       </ul>
